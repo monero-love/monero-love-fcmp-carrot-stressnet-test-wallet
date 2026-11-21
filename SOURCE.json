@@ -1,0 +1,29 @@
+{
+  "article": "https://monero.love/guides/fcmp-carrot-stressnet-test-wallet/",
+  "recorded_at_utc": "2026-11-21T18:16:04.578385+00:00",
+  "source_kind": "live published HTML",
+  "article_html_sha256": "3dc670c37ed999bb4c27c32cb1373c09431b3356ed9c6915f567cc253b877714",
+  "files": {
+    ".gitignore": {
+      "sha256": "58c2ae86583b93c1ae764f01f77a50f0e76673b84c8fe387c7c70c8061056e7e"
+    },
+    "ARTICLE-EXAMPLES.md": {
+      "sha256": "7a294fe068bf742c294a3eb1edb57bd990051a4c4b31d6fc8bf72af88663ad78"
+    },
+    "README.md": {
+      "sha256": "ad17c0b986f4634226bf8002cc087a25ea410173e2e47f04fea8d8f457c04b97"
+    },
+    "VALIDATION.md": {
+      "sha256": "cf3aa00ddc9d718a34329ca766a344a71bb377496e50205c43130fc655ae5686"
+    },
+    "create-test-wallet.sh": {
+      "sha256": "bdafbd31d53a5cbd2220eba1124890aab21ee4b0e9f52ba83a8d5c075c9a7ba2"
+    },
+    "monerod-testnet.conf": {
+      "sha256": "cb42e1e3d8a56c8f1f666c5035953f3a55980081cb24a46fb54bdf2bd6225515"
+    },
+    "start-daemon.sh": {
+      "sha256": "054e05056efbc9cdd2bbc268ceef19319cdb5b7a838591e39ee4bc6220d01847"
+    }
+  }
+}
